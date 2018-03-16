@@ -1,0 +1,12 @@
+/.bundle/
+/pkg/
+/spec/reports/
+/tmp/
+/.idea/
+
+# Config
+data/config.yml
+
+
+# Logs
+logs/*.log
